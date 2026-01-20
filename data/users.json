@@ -1,0 +1,44 @@
+{
+  "validUser": {
+    "title": "Mr.",
+    "name": "Angel",
+    "email": "testuser_automation@mail.com",
+    "password": "SafePassword123!",
+    "day": "10",
+    "month": "February",
+    "year": "2001",
+    "firstName": "Angel",
+    "lastName": "Posadas Ruano",
+    "company": "Tech Solutions LLC",
+    "address": "1600 Amphitheatre Parkway",
+    "address2": "Suite 100",
+    "country": "United States",
+    "state": "California",
+    "city": "Mountain View",
+    "zipCode": "94043",
+    "mobileNumber": "6502530000"
+  },
+  "newUser": {
+    "title": "Ms.",
+    "name": "Sarah",
+    "email": "sarah.dev@example.com",
+    "password": "DevUser2026",
+    "day": "24",
+    "month": "October",
+    "year": "2001",
+    "firstName": "Sarah",
+    "lastName": "Miller",
+    "company": "Global Logistics Inc",
+    "address": "350 Fifth Avenue",
+    "address2": "Floor 72",
+    "country": "United States",
+    "state": "New York",
+    "city": "New York",
+    "zipCode": "10118",
+    "mobileNumber": "2127363100"
+  },
+  "invalidUser": {
+    "email": "invaliduser@example.com",
+    "password": "invalidpassword"
+  }
+}
